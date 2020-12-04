@@ -5,6 +5,6 @@
 ## How To Install:
 
 ### Requiered Installations:
-`Python 3`
+`Python 3.9.0`
 `FFMPEG`
 `WaveLink`
