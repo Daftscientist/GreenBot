@@ -10,7 +10,6 @@
 <a href="https://github.com/Daftscientist/GreenBot/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
 <a href="https://github.com/Daftscientist/GreenBot/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
 
-### Contents:
-[Categories](#categories)
+### [Categories](#categories)
 
 ## How To Install:
